@@ -1,5 +1,3 @@
-HEAD
 #!/bin/bash
 echo "ALX"
-master
 echo "The school is open!"
